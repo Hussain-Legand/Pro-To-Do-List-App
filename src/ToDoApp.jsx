@@ -9,10 +9,10 @@ function ToDoList() {
             return JSON.parse(savedTasks);
         }
         return [
-            { id: 1, name: 'Study Orthopedics', completed: false },
-            { id: 2, name: 'Revision React.js Hooks', completed: false },
-            { id: 3, name: 'Learning New Hadith', completed: false },
-            { id: 4, name: 'Going to MMA', completed: false }
+            { id: 1, name: 'Do Some Coding 💻', completed: false },
+            { id: 2, name: 'Wake Up Early 🌞', completed: false },
+            { id: 3, name: 'Go to School 📚', completed: false },
+            { id: 4, name: 'Playing Football ⚽', completed: false }
         ];
     });
 
